@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ial7ZX2+uJ18p5R1jQ3D0xhiTNBvNR0dpOjbJCFflSY8OHzpFgCOUQ5aRbv/Jk5ATP8JeoazJRDddYXmc5cyzQ==",
+  "success": true,
+  "projectFilePath": "D:\\Content Creation\\.NET Core Projects\\SampleAutomapper\\SampleAutomapper\\SampleAutomapper.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\obadi\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\obadi\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
+    "C:\\Users\\obadi\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\obadi\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\obadi\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\obadi\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\obadi\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
